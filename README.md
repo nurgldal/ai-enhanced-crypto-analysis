@@ -3,7 +3,7 @@
 
 ---
 
-## 🇬🇧 English | 🇹🇷 Türkçe
+##  English |  Türkçe
 
 ### 📌 Project Description | Proje Açıklaması
 
